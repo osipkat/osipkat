@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 As a seasoned IT professional, I’m deepening my expertise in Android development. With over ten years in low-code and no-code solutions and three years of Android experience, I combine solid technical knowledge with a passion for building efficient and high-performing applications. 
 
