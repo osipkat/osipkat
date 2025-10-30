@@ -1,8 +1,8 @@
 # Hi there 👋
 
-As a seasoned IT professional, I’m deepening my expertise in Android development. With over ten years in low-code and no-code solutions and three years of Android experience, I combine solid technical knowledge with a passion for building efficient and high-performing applications. 
+As a seasoned IT professional, I’m deepening my expertise in Android development. With over ten years in low-code/no-code solutions and three years of Android experience, I combine solid technical knowledge with a passion for building efficient and high-performing applications. 
 
-## 🔭 Current focus
+## 🔭 Current interest
 
 I prioritize clean architecture, unit testing, and thoughtful refactoring to make my code fast, maintainable, and easy to scale — improving both the performance of the apps and the efficiency of the development process.
 
@@ -11,7 +11,7 @@ I prioritize clean architecture, unit testing, and thoughtful refactoring to mak
 
 ## Привет 👋
   
-Я опытный IT-специалист и продолжаю углублять свои знания в Android-разработке. Имея боллее десяти лет опыта с low-code и no-code решениями и три года опыта в Android, я сочетаю уверенные технические знания со стремлением создавать производительные и эффективные приложения. 
+Я опытный IT-специалист и продолжаю углублять свои знания в Android-разработке. Имея более десяти лет опыта с low-code/no-code решениями и три года опыта в Android, я сочетаю уверенные технические знания со стремлением создавать производительные и эффективные приложения. 
 
 ## Текущий интерес
 
